@@ -50,3 +50,7 @@ The **PumpToken** contract (in `TakToken.sol`) is a token that:
 ## Verification
 
 - **Etherscan (verified):** [0x8F657dEDA396FF99644aa70cAD87B3Cd8BDddEf1](https://etherscan.io/address/0x8F657dEDA396FF99644aa70cAD87B3Cd8BDddEf1#code)
+
+## Author
+
+[Telegram](https://t.me/microRustyme)
