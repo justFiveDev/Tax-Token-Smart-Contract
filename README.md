@@ -53,4 +53,4 @@ The **PumpToken** contract (in `TakToken.sol`) is a token that:
 
 ## Author
 
-[Telegram](https://t.me/microRustyme)
+fiv3fingers.dev@gmail.com
